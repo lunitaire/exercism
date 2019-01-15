@@ -7,7 +7,7 @@ I am currently using exercism.io for two reasons:
 * To participate in a WeAllJS's \#learning community
 
 #### Progress
-[My profile](http://exercism.io/lunitaire)
+[My profile](https://exercism.io/profiles/lunitaire)
 
 #### Languages
 Currently I am following the tracks for:
